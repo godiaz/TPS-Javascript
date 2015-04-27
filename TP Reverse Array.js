@@ -12,5 +12,3 @@ function reverse(array) {
 	}
 	return false;
 };
-
-reverse(arr)
